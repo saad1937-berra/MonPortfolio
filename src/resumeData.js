@@ -82,9 +82,9 @@ let resumeData = {
         "imgurl":"images/portfolio/Capture.png",
         "images":[
           "images/portfolio/PRO2.png",
-          "images/portfolio/PRO3.PNG",
-          "images/portfolio/PRO4.PNG",
-          "images/portfolio/PRO5.PNG"
+          "images/portfolio/PRO3.png",
+          "images/portfolio/PRO4.png",
+          "images/portfolio/PRO5.png"
         ]
       },
       {
@@ -92,9 +92,9 @@ let resumeData = {
         "description":"Gestion d'entreprises",
         "imgurl":"images/portfolio/ISI.png",
         "images":[
-          "images/portfolio/ISI2.PNG",
-          "images/portfolio/ISI3.PNG",
-          "images/portfolio/ISI4.PNG"
+          "images/portfolio/ISI2.png",
+          "images/portfolio/ISI3.png",
+          "images/portfolio/ISI4.png"
         ]
       }
     ],
